@@ -126,4 +126,3 @@
 
 <hr>
 
-<p align="center">Feito com 💙 durante os estudos na Alura</p>
